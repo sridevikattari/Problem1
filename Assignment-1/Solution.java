@@ -6,7 +6,7 @@ class Question {
     /**
      * { var_description }.
      */
-    private String questiontext ;
+    private String questiontext;
     /**
      * { var_description }.
      */
